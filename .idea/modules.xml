@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Encryption_algorithms.iml" filepath="$PROJECT_DIR$/.idea/Encryption_algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Git/.idea/Git.iml" filepath="$PROJECT_DIR$/../Git/.idea/Git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NPUA/.idea/NPUA.iml" filepath="$PROJECT_DIR$/../NPUA/.idea/NPUA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OOP/.idea/OOP.iml" filepath="$PROJECT_DIR$/../OOP/.idea/OOP.iml" />
     </modules>
   </component>
 </project>
